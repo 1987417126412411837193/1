@@ -1,0 +1,11 @@
+Model Information:
+* title:	Looks like you missed your spanish today.
+* source:	https://sketchfab.com/3d-models/looks-like-you-missed-your-spanish-today-5ba59798fd0a485a94d133fe9c9f8c12
+* author:	Valger (https://sketchfab.com/Valger)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Looks like you missed your spanish today." (https://sketchfab.com/3d-models/looks-like-you-missed-your-spanish-today-5ba59798fd0a485a94d133fe9c9f8c12) by Valger (https://sketchfab.com/Valger) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
